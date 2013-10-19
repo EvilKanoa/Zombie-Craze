@@ -22,7 +22,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Name: Zombie Craze                                          %
-% Programmer: Kanoa Haley                                     %
+% Programmer: Kanoa Haley and Aidan Schaefer                  %
 % Date Started: 16/10/2013                                    %
 % Description: TODO                                           %
 % Info: Make game using combine.jar on all the files in this  %
